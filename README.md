@@ -19,10 +19,8 @@ This project is developed using Node.js and Express, utilizing a NoSQL database 
 
 ## Features
 
-List the main features of your project. For example:
-- CRUD operations for a specific resource
-- User authentication and authorization
-- Data validation and error handling
+- CRUD operations for a Tea-club 
+- User authentication 
 
 ## Technologies Used
 
@@ -33,7 +31,7 @@ List the main features of your project. For example:
 
 ## Getting Started
 
-Instructions to get a copy of the project up and running on your local machine.
+You can fork this project by downloading zip folder or you can go for cloning the repo 
 
 ### Prerequisites
 
