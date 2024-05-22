@@ -51,6 +51,10 @@ Instructions to get a copy of the project up and running on your local machine.
 3. Install the dependencies:
    ```sh
     npm install
+4. Create a .env file in the root of your project and add the following:
+   ```sh
+   MONGO_URI=your-mongodb-uri
+   PORT=your-port
 ### Usage
 
 1. Start the development server
